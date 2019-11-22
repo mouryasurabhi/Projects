@@ -1,0 +1,2 @@
+# Beginer_challanges
+SVM_for_intent_classifaction
