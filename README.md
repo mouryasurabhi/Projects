@@ -1,4 +1,4 @@
 # Beginer_challanges
-This repositorie contains all the Data Challenges i have participated in 
+This repository contains all the Data Challenges i have participated in 
 1. Drug related questions classification-POSOS
 2. Predicting lung cancer survival time-OWKIN
